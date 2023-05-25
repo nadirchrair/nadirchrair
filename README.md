@@ -56,7 +56,7 @@
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
       <br>Django
     </td>
-              <td align="center" width="96">
+          <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=webpack" width="48" height="48" alt="jquery" />
 
                 <br>WebPack
